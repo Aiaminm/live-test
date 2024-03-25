@@ -18,7 +18,7 @@
     "core-js": "^2.6.11",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.18.1",
+    "express": "^4.19.2",
     "iconv-lite": "^0.5.1",
     "live-torrent-backend": "^1.7.0",
     "morgan": "^1.9.1",
